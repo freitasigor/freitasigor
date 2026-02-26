@@ -30,9 +30,5 @@ Sou um Desenvolvedor apaixonado por tecnologia, com o objetivo de construir uma 
 * Git e GitHub
 * [Outras ferramentas, ex: Docker, Linux, Postman]
 
-### 📊 Minhas Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=freitasigor&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="Estatísticas do GitHub do Igor" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasigor&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6" alt="Linguagens mais usadas" />
 </p>
