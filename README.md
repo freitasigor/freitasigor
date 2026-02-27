@@ -7,7 +7,7 @@ Sou um desenvolvedor focado em soluções **Full Stack** e **Business Intelligen
 * 🏛️ **Atualmente:** Atuo no desenvolvimento e sustentação da intranet da **Procuradoria Geral do Estado do Espírito Santo (PGE-ES)**. Sou responsável por garantir a estabilidade e a evolução contínua de sistemas corporativos críticos em produção.
 * 🏥 **Destaque Prático:** Desenvolvi uma proposta de intervenção real no **Hospital Maternidade Pró-Matre** (Projeto PEI I), desenhando um **Sistema Web de Gestão Patrimonial e Sustentabilidade** focado na otimização de equipamentos e redução de lixo eletrônico.
 * 🚀 **Foco de Estudo:** Aprimorar continuamente as minhas habilidades no ecosistema de Desenvolvimento Web (Python, C#, PHP, JS) e na Inteligência de Dados (Power BI avançado, ETL e Modelagem).
-* 📫 **Como me encontrar:** [Insira o seu link do LinkedIn] | [Insira o seu E-mail]
+* 📫 **Como me encontrar:** [https://www.linkedin.com/in/defreitasigor/] | [freitasif@hotmail.com]
 
 ---
 
