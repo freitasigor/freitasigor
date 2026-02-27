@@ -31,11 +31,4 @@ Sou um desenvolvedor focado em soluções **Full Stack** e **Business Intelligen
 * **Metodologias:** Scrum, Design Thinking e Business Model Canvas.
 * **Visão Corporativa:** Planejamento Estratégico, Inteligência Competitiva e cultura digital (SharePoint).
 
----
 
-### 📊 As Minhas Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freitasigor&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="Estatísticas do GitHub do Igor" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasigor&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6" alt="Linguagens mais usadas" />
-</p>
