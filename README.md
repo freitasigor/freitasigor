@@ -61,14 +61,11 @@ Aqui estão as tecnologias com as quais trabalho nos meus projetos pessoais e ac
 
 ---
 
-## 📁 Projetos em Destaque
+## 📁 Projetos atuais
 
-### 1. [Nome do seu projeto principal - ex: API Automator Web]
+### 1. Controle de inventário
 * **Descrição:** Sistema web completo construído do zero para registro de movimentação e manuntenção de equipamentos de informática (controle de estoque e equipamentos em uso). O projeto abrange desde a criação de interfaces responsivas no front-end para uma melhor experiência até a lógica de servidores em Node.js no back-end para gravar históricos, equipamentos novos e remoção.
 * **Desafio técnico:** Consumo assíncrono de APIs externas, roteamento de requisições e manipulação do DOM em tempo real.
-
-### 2. [Lab de Tecnologias Web - Projetos Multivix]
-* **Descrição:** Repositório dedicado à implementação prática de conceitos acadêmicos, estruturando dados e conectando a lógica de programação aos bancos de dados relacionais.
 
 ---
 
