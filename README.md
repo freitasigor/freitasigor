@@ -19,12 +19,12 @@
 
 Sou um profissional de TI residente em Vitória/ES, atualmente em transição da área de Infraestrutura e Suporte Avançado para o **Desenvolvimento Web**. 
 
-[cite_start]Minha jornada na tecnologia começou com uma base sólida técnica no **IFES** [cite: 1382, 1386] [cite_start]e agora estou na reta final do tecnólogo em **Análise e Desenvolvimento de Sistemas pela Multivix** (conclusão em Junho/2026)[cite: 26, 28, 29]. 
+Minha jornada na tecnologia começou com uma base sólida técnica no **IFES** e agora estou na reta final do tecnólogo em **Análise e Desenvolvimento de Sistemas pela Multivix** (conclusão em Junho/2026). 
 
 Por atuar como **Analista de Suporte N2 na Ebalmaq**, desenvolvi uma habilidade que considero crucial para qualquer programador: **saber como o software falha em produção e como investigar a causa raiz**. Não apenas escrevo código, mas entendo a importância de ler *logs*, debugar sistemas complexos e pensar na experiência (e na dor) do usuário final.
 
 - 🔭 **Atualmente construindo:** Uma aplicação Web Full-Stack focada em automação, manipulação dinâmica de dados e consumo de APIs REST.
-- [cite_start]🌱 **Focando meus estudos em:** Ecossistema JavaScript/TypeScript, Node.js[cite: 676, 680], modelagem de banco de dados e arquitetura de software web.
+- 🌱 **Focando meus estudos em:** Ecossistema JavaScript/TypeScript, Node.js, modelagem de banco de dados e arquitetura de software web.
 - 💡 **Meu diferencial:** Capacidade avançada de *troubleshooting* (resolução de problemas) e trabalho sob pressão adquiridos no Suporte N2 corporativo.
 
 ---
