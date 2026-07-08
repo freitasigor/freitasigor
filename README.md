@@ -1,74 +1,52 @@
-<h1 align="center">Olá, eu sou o Igor de Freitas! 👋</h1>
+# Olá, eu sou o Igor de Freitas! 👋
 
-<h3 align="center">
-  Analista de Suporte N2 | Desenvolvedor Web Júnior em Formação | Estudante de ADS
-</h3>
+Analista de Sistemas | Analista de Suporte N2 | Desenvolvedor Web Full-Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/defreitasigor/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:freitasif@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</p>
+[ ](https://www.linkedin.com/in/defreitasigor/) [ ](mailto:freitasif@hotmail.com)
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou um profissional de TI residente em Vitória/ES, atualmente em transição da área de Infraestrutura e Suporte Avançado para o **Desenvolvimento Web**. 
+Sou um profissional de TI residente em Vitória/ES, **graduado em Análise e Desenvolvimento de Sistemas pela Multivix**. Minha trajetória une a experiência prática em Infraestrutura e Suporte Avançado com o desenvolvimento de soluções sistêmicas eficientes.
 
-Minha jornada na tecnologia começou com uma base sólida técnica no **IFES** e agora estou na reta final do tecnólogo em **Análise e Desenvolvimento de Sistemas pela Multivix** (conclusão em Junho/2026). 
+Com sólida base técnica iniciada no **IFES**, utilizo minha experiência como **Analista de Suporte N2 na Ebalmaq** para criar softwares resilientes. Entendo profundamente o ciclo de vida de uma falha em produção, o que me permite projetar sistemas focados em alta disponibilidade, segurança e excelente experiência do usuário.
 
-Por atuar como **Analista de Suporte N2 na Ebalmaq**, desenvolvi uma habilidade que considero crucial para qualquer programador: **saber como o software falha em produção e como investigar a causa raiz**. Não apenas escrevo código, mas entendo a importância de ler *logs*, debugar sistemas complexos e pensar na experiência (e na dor) do usuário final.
-
-- 🔭 **Atualmente construindo:** Uma aplicação Web Full-Stack focada em automação, manipulação dinâmica de dados e consumo de APIs REST.
-- 🌱 **Focando meus estudos em:** Ecossistema JavaScript/TypeScript, Node.js, modelagem de banco de dados e arquitetura de software web.
-- 💡 **Meu diferencial:** Capacidade avançada de *troubleshooting* (resolução de problemas) e trabalho sob pressão adquiridos no Suporte N2 corporativo.
+- 🎓 **Formação:** Graduado em ADS pela Multivix (Concluído em 2026).
+- 🔭 **Expertise:** Troubleshooting de sistemas complexos e automação de processos.
+- 🌱 **Foco Técnico:** Arquitetura de software web, Node.js e modelagem de dados escalável.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Aqui estão as tecnologias com as quais trabalho nos meus projetos pessoais e acadêmicos:
-
 ### Front-end
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</p>
+- HTML5, CSS3, JavaScript (Vanilla JS), SASS, Bootstrap 5.
 
 ### Back-end & Bancos de Dados
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</p>
+- Node.js, Python (POO), SQLite, MySQL, SQL Server.
 
-### Infraestrutura & Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-</p>
+### Infraestrutura & Operações
+- Git/GitHub, Shell Script, Redes de Computadores, Suporte N2, Active Directory, SharePoint.
 
 ---
 
-## 📁 Projetos atuais
+## 📁 Projetos em Destaque
 
-### 1. Controle de inventário
-* **Descrição:** Sistema web completo construído do zero para registro de movimentação e manuntenção de equipamentos de informática (controle de estoque e equipamentos em uso). O projeto abrange desde a criação de interfaces responsivas no front-end para uma melhor experiência até a lógica de servidores em Node.js no back-end para gravar históricos, equipamentos novos e remoção.
-* **Desafio técnico:** Consumo assíncrono de APIs externas, roteamento de requisições e manipulação do DOM em tempo real.
+### 1. Sistema de Gestão de Inventário (PGE-ES)
+*   **Descrição:** Aplicação Web Full-Stack desenvolvida para a Procuradoria-Geral do Estado para centralizar o controle de ativos de TI. Substituiu planilhas manuais por um banco de dados auditável.
+*   **Tecnologias:** HTML5, CSS3, JavaScript, Node.js e SQLite.
+*   **Resultado:** Eliminação de 100% da duplicidade de registros e otimização do tempo de resposta do helpdesk.
 
 ---
 
-<div align="center">
-  <i>"A melhor forma de prever o futuro é implementá-lo."</i>
-</div>
+## 🎓 Certificações Relevantes
+
+- **Desenvolvendo Projetos com Estruturas de Dados em Python** 
+- **Segurança em Tecnologia da Informação** 
+- **Lei Geral de Proteção de Dados (LGPD)** 
+- **Inovação e Empreendedorismo: Design Thinking e Canvas** 
+
+---
+
+*"A melhor forma de prever o futuro é implementá-lo."*
